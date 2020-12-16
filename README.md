@@ -1,7 +1,7 @@
 # 爬取虎扑评论并制作词云
 ## 第一步: 安装依赖
 ```
-pip333 install -r requriements.txt
+pip3 install -r requriements.txt
 ```
 
 ## 第二步: 爬取评论
